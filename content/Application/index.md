@@ -1,5 +1,4 @@
 ---
-title: "Application"
 ---
 
 To be eligible for a micro-grant you have to be a Rwandan under the age of 30. 

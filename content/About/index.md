@@ -1,5 +1,4 @@
 ---
-title: "About"
 ---
 
 Welcome to Imbuto Grants. 
