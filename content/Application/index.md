@@ -13,7 +13,7 @@ Follow these steps to apply for an Imbuto Grant:
 - Must be a resident of Rwanda
 
 ## Application Form
-[Fill out the application form](https://forms.gle/your-google-form-link)
+[Fill out the application form](https://docs.google.com/forms/d/e/1FAIpQLScM9cKcT9TKWummeVqcmYPqomjXrTZAJCsyVLrPAQJeUOpwtQ/viewform?usp=sf_link)
 
 ## Frequently Asked Questions
 ### What is the deadline for applications?

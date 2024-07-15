@@ -18,3 +18,4 @@ Applications are evaluated based on:
 - **Innovation:** How creative and original is the project?
 - **Impact:** What positive impact will the project have on the community?
 - **Feasibility:** Is the project realistic and achievable within the grant amount and timeframe?
+- **Track Record:** Demonstrated determination and resilience in previous projects, showing an ability to get things done, even on a small scale.
