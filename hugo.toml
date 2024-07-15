@@ -7,10 +7,22 @@ theme = "imbuto-theme"
     identifier = "about"
     name = "About"
     url = "/about"
-    weight = 20
+    weight = 1
+
+    [[menu.main]]
+    identifier = "grants"
+    name = "Grant Details"
+    url = "/grants"
+    weight = 2
 
     [[menu.main]]
     identifier = "application"
     name = "Applications"
     url = "/application"
-    weight = 20
+    weight = 3
+
+    [[menu.main]]
+    identifier = "contact"
+    name = "Contact Us"
+    url = "/contact"
+    weight = 4
