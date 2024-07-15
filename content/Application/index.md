@@ -32,4 +32,4 @@ Due to time constraints unsuccessful applications will not receive feedback.
 Interviews will be used to understand projects more deeply and to sense check projects.
 
 ### How will I receive funding? 
-Funding will be granted either as an immediate lump-sum or in 1-monthly installments depending on the amount granted. 
+Funding will be granted either as a single lump-sum or in one-monthly installments depending on the amount granted. 

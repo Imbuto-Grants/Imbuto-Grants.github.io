@@ -4,10 +4,10 @@ title: "Welcome to Imbuto Grants"
 
 # Welcome to Imbuto Grants
 
-Imbuto Grants provides unconditional micro-grants ranging from $50 to $500 to young Rwandans under 30. We aim to support innovative projects and initiatives that create a positive impact in the community.
+Imbuto Grants provides unconditional micro-grants ranging from $50 to $500 to young Rwandans under 30. 
 
 ## Our Mission
-Our mission is to empower young Rwandans by providing financial support, mentoring, and access to valuable networks. We believe in the potential of youth to drive change and innovation.
+Our mission is to identify and support high-potential individuals who have the potential to make a significant impact in their communities and beyond. We believe in the power of small, unconditional grants to unlock creativity and drive positive change.
 
 ## How It Works
 1. **Apply**: Submit your application through our [application form](application).
